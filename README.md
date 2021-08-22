@@ -1,2 +1,2 @@
-# introdu-o-javascript
+# introdução ao Javascript
 Introdução ao JavaScript
